@@ -29,8 +29,8 @@
         }
     });
     
-    [self dispatchGroup];
-    [self dispatchBarrier];
+//    [self dispatchGroup];
+//    [self dispatchBarrier];
     
     [self.view addSubview:_imageView];
 }
